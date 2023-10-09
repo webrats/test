@@ -1,0 +1,14 @@
+Install python with env path setup 
+
+https://www.python.org/downloads/
+
+
+2. after install . check in cmd with python --version and pip --version 
+
+3. Open cmd and install flask 
+        pip install flask 
+
+4. again 
+    pip install flask_restful
+5.  another 
+    pip install simplejson
